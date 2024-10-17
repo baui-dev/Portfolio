@@ -1,0 +1,19 @@
+/* src/index.css */
+@import './tailwind.css';
+
+/* Add any global styles here */
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+@font-face {
+  font-family: 'MyFont';
+  src: local('MyFont'), url(../fonts/space_age.ttf) format('truetype');
+}
+
+.logo {
+  font-family: 'MyFont';
+  font-size: 200px;
+}
