@@ -1,7 +1,5 @@
-import "./Header.css";
-import { FaLinkedin, FaGithub, FaTwitter, FaInstagram } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 import { LINKS } from "../../constants/MiscText";
-import { FaFileDownload } from "react-icons/fa";
 
 const Header = () => {
   return (

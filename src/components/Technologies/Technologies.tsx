@@ -24,9 +24,6 @@ import { TfiWordpress } from "react-icons/tfi";
 
 import { FcDebian } from "react-icons/fc";
 import { FcLinux } from "react-icons/fc";
-import { SiArchlinux } from "react-icons/si";
-import { BsWindows } from "react-icons/bs";
-import { SiMacos } from "react-icons/si";
 
 import "./Technologies.css";
 

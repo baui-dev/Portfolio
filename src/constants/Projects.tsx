@@ -1,10 +1,4 @@
-import project1 from "../assets/images/project-1.jpg";
-import project2 from "../assets/images/project-2.jpg";
-import project3 from "../assets/images/project-3.jpg";
-import project4 from "../assets/images/project-4.jpg";
-
 import mamgo from "../assets/images/mamgo.jpg";
-import clocker from "../assets/images/clocker.png";
 import cubegame from "../assets/images/cubegame.png";
 import docker from "../assets/images/docker.png";
 import orangefox from "../assets/images/orangefox.png";
@@ -21,8 +15,8 @@ export const PROJECTS = [
     company: " - Mamgo",
     image: mamgo,
     description:
-      "Die veraltete Angular Landing Page wurde mit einem neuen Design und API-Requests realisiert. Verwendete Technologien: Vue.js, Angular, TypeScript, TailwindCSS und Rest API.",
-    technologies: ["Vue.js", "Rest API", "BootstrapCSS"],
+      "Die veraltete Angular Landing Page wurde mit einem neuen Design und in Vue programmiert. Service Worker wurden im Backend mit C# realisiert um neue API´s einzubinden. Verwendete Technologien: Vue.js, Angular, TypeScript, TailwindCSS und Rest API.",
+    technologies: ["Vue.js", "Rest API", "BootstrapCSS", "C#"],
   },
   {
     title: "Time / Mood Tracker",
