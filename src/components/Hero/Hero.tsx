@@ -1,5 +1,4 @@
 import { HERO_TEXT } from "../../constants/MiscText";
-import profilePic from "../../assets/images/about4.jpg";
 import { motion } from "framer-motion";
 import ThreeScene from "../3DObject/3DObject";
 
