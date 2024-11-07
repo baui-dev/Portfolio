@@ -8,8 +8,22 @@ import ubports from "../assets/images/ubports.jpg";
 import growpony from "../assets/images/growpony.jpg";
 import portfolio from "../assets/images/portfolio.png";
 import parachute from "../assets/images/parachute.png";
+import Av7 from "../assets/images/Av7.png";
 
 export const PROJECTS = [
+  {
+    title: "Demo Shop - shop.baui.dev",
+    image: Av7,
+    description:
+      "Ein voll funktionsfähiger responsive Demo Shop, für Showcase Zwecke. Entwickelt mit React, TailwindCSS und single-spa. Die Bilder werden von der Pexels API geladen. Die Anwendung ist in einem Docker Container gehostet.",
+    technologies: [
+      "React",
+      "TailwindCSS",
+      "single-spa",
+      "Pexels API",
+      "Docker",
+    ],
+  },
   {
     title: "Job Landing Page",
     company: " - Mamgo",
